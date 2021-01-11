@@ -5,9 +5,10 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m Sneh Gupta.'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      I am Sneh Gupta, an Indian, who has just stepped into the Cyber World and
+      is exploring more and more day by day. I regularly participate in CTFs and
+      Hackathons to hone my skills in coding and cybersecurity.
     actions:
       - label: Let's talk
         url: /contact
